@@ -20,5 +20,7 @@ public class Main {
         System.out.println("3");
         System.out.println("D");
         System.out.println("E");
+        System.out.println("4");
+        System.out.println("5");
     }
 }
