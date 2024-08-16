@@ -12,5 +12,8 @@ public class Main {
         System.out.println("4 code from local feature_1 branch");
         System.out.println("New 4th code from other developer when we are working in our local 'feature_1' branch");
         System.out.println("New 5th code from other developer when we are working in our local 'feature_1' branch");
+        System.out.println("A");
+        System.out.println("B");
+        System.out.println("C");
     }
 }
