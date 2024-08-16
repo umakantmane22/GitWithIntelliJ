@@ -5,9 +5,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Code commited by other developer after craeton local 'development' repository created");
         System.out.println("New 1 code from local development branch");
-        System.out.println("2nd Code commited by other developer after creation local 'feature_1' repository created");
+        System.out.println("2 Code commited by other developer after creation local 'feature_1' repository created");
         System.out.println("New 2nd code from local feature_1 branch");
-        System.out.println("New 3nd code from local when we are working in our local 'feature_1' branch");
-        System.out.println("New 3 code from local feature_1 branch");
+        System.out.println("3 code from other developer when we are working in our local 'feature_1' branch");
+        System.out.println("New 3nd code from other developer when we are working in our local 'feature_1' branch");
+        System.out.println("4 code from local feature_1 branch");
     }
 }
